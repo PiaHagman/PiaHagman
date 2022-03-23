@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiaHagman
-- 👀 I’m interested in code. 
-- 🌱 I’m currently learning c#. 
+- 👀 I’m interested in code and people
+- 🌱 I’m currently studying to become a .NET developer.
 - 📫 How to reach me : LinkedIn: 
 - https://www.linkedin.com/in/pia-hagman-0ab1bba6/. 
 
