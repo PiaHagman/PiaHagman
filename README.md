@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PiaHagman
-- 👀 I’m interested in code and people
+- 👀 I’m interested people, music and coding.
 - 🌱 I’m currently studying to become a .NET developer.
 - 📫 How to reach me : LinkedIn: 
 - https://www.linkedin.com/in/pia-hagman-0ab1bba6/. 
